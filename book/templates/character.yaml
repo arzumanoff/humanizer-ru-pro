@@ -1,0 +1,26 @@
+id: ""
+name: ""
+role: ""
+age: null
+appearance: []
+background: ""
+external_goal: ""
+internal_need: ""
+fear: ""
+misbelief: ""
+contradictions: []
+relationships: {}
+knowledge: []
+secrets: []
+voice:
+  formality: "neutral"
+  sentence_length: "mixed"
+  vocabulary: []
+  taboo_words: []
+  verbal_habits: []
+state:
+  location: ""
+  physical: ""
+  emotional: ""
+  possessions: []
+  last_updated_chapter: 0
