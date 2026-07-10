@@ -1,0 +1,26 @@
+chapter: 1
+title: ""
+pov_character: ""
+time:
+  starts: ""
+  ends: ""
+location: ""
+chapter_goal: ""
+conflict: ""
+turning_point: ""
+ending_hook: ""
+required_facts: []
+forbidden_changes: []
+plot_lines_advanced: []
+foreshadowing:
+  plant: []
+  reinforce: []
+  pay_off: []
+scenes:
+  - id: "1.1"
+    purpose: ""
+    viewpoint_goal: ""
+    obstacle: ""
+    outcome: ""
+    emotional_shift: ""
+    target_words: 1200
