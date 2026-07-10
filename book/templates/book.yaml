@@ -1,0 +1,13 @@
+title: ""
+genre: ""
+audience: ""
+premise: ""
+theme: ""
+point_of_view: "third-close"
+tense: "past"
+target_words: 80000
+parts: []
+constraints:
+  preserve_facts: true
+  no_invented_research: true
+  reference_style_mode: "profile-only"
