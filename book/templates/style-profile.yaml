@@ -1,0 +1,33 @@
+profile_name: ""
+source_type: "author_samples"
+language: "ru"
+narrator:
+  person: "third"
+  distance: "close"
+  tense: "past"
+  reliability: "stable"
+  tone: []
+syntax:
+  sentence_mean: null
+  sentence_variance: "high"
+  fragments: "occasional"
+  paragraph_length: "mixed"
+lexicon:
+  register: "neutral"
+  preferred_words: []
+  avoid_words: []
+  idiom_density: "low"
+imagery:
+  metaphor_density: "low"
+  sensory_focus: []
+dialogue:
+  subtext: "medium"
+  direct_explanation: "low"
+  tags: "minimal"
+scene_patterns:
+  openings: []
+  endings: []
+constraints:
+  imitate_techniques_not_phrases: true
+  no_unique_phrase_copying: true
+  no_living_author_impersonation: true
